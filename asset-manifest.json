@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mygi/static/css/main.4772b91a.css",
+    "main.js": "/mygi/static/js/main.ebb7e9ae.js",
+    "static/media/Mondstadt.webp": "/mygi/static/media/Mondstadt.06c13bb5e6c6d9983875.webp",
+    "index.html": "/mygi/index.html",
+    "main.4772b91a.css.map": "/mygi/static/css/main.4772b91a.css.map",
+    "main.ebb7e9ae.js.map": "/mygi/static/js/main.ebb7e9ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4772b91a.css",
+    "static/js/main.ebb7e9ae.js"
+  ]
+}
